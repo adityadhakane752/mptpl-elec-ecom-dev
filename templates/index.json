@@ -392,6 +392,7 @@
         "stat_3",
         "stat_4"
       ],
+      "disabled": true,
       "settings": {
         "title": "Trusted Electronics Retailer",
         "heading_size": "h1",
@@ -522,6 +523,7 @@
         "testimonial_2",
         "testimonial_3"
       ],
+      "disabled": true,
       "settings": {
         "title": "What Our Customers Say",
         "heading_size": "h1",
@@ -600,7 +602,7 @@
         "featured_collection_jraNdm": {
           "type": "featured_collection",
           "settings": {
-            "collection": "smartphones"
+            "collection": "smart-rings"
           }
         },
         "featured_collection_gFKKxT": {
